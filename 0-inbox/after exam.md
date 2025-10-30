@@ -1,0 +1,13 @@
+- العقد العقد العقد
+- اجتماع مع الأستاذ محمد لتحديد الأولويات
+- الربط بين جيرا و توغل
+- [How I got a second degree and earned 5 developer certifications in just one year, while working and raising two kids](https://www.freecodecamp.org/news/how-i-got-a-second-degree-and-earned-5-developer-certifications-in-just-one-year-while-working-and-2b902ee291ab/)
+- تدونيم تجربتي بالافتراضية
+- github copilot
+- متن جزرية
+- حشمة مقطع لمجيبة
+- أحمد و السيرة الذاتية مع اقتراح موقع البورتفوليو
+- تواتر أكبر لصلاة قضاء الحاجة
+- العمل بشكل تاسك وليس وقت (للتعود على نظام الفريلانس)
+- كيف أحل مسائل كودفورس للطلوع بالمستوى
+- رفع النت

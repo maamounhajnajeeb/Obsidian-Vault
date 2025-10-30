@@ -1,0 +1,212 @@
+{
+  "main": {
+    "id": "22631fe87e799ac1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8919c979afebcdc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b46168e7e56bd439",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2-resources/Moodle Index.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Moodle Index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "019cca2a61871e64",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5d7da53264cc8e5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54bca3bbd3ed5a9c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2ff6512edb0c280c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "5866ca6dd87e5c28",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 259.5
+  },
+  "right": {
+    "id": "080fae6ad05be41c",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4b25caecc81e6c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ab3aeb76dbf4e235",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "9aa6ea63d810adf4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "60d880eaf26172c2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "20fce3622b201eae",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "b46168e7e56bd439",
+  "lastOpenFiles": [
+    "[Moodle.md",
+    "2-resources/Moodle Index.md",
+    "4-open edX/index.md",
+    "recovery codes/Twilio Recovery Code.md",
+    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 14 - كتاب الصلاة.md",
+    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 13 - باب الأنجاس و الطهارة عنها.md",
+    "8- operating systems/Lecture 3.md",
+    "8- operating systems/Lecture 4 - pipe, filters and redirection.md",
+    "system design crash course.md",
+    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 11 - باب المسح على الخفين.md",
+    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 10 - باب التيمم.md",
+    "general notes/Connect PostgreSQL on Shell or Bash.md",
+    "8- operating systems/Lecture 2.md",
+    "8- operating systems/Lecture 1.md",
+    "0-inbox/after exam.md",
+    "0-inbox/AL Bunyan Al Marsous.md",
+    "0-inbox/Cv.md",
+    "0-inbox/important websites.md",
+    "0-inbox/notes about cursor.md",
+    "0-inbox/System design topics.md",
+    "0-inbox/وصفة دراسة المحاضرات.md",
+    "6- static/vi_and_shell.png",
+    "5- programming/SQL/SQL join.md",
+    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 9 - أحكام الاغتسال.md",
+    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 8 - ما ينقض الوضوء وما لا ينقضه.md",
+    "5- programming/C#/Programing 1.md",
+    "6- static/cs_data_type_ranges.png",
+    "6- static/top_dir.png",
+    "8- operating systems",
+    "general notes/Format for AI prompts.md",
+    "5- programming/c++/SVU Bootcamp",
+    "5- programming/c++/standard library/STL index.canvas",
+    "5- programming/SQL",
+    "7- journaling/2025/june",
+    "7- journaling/2025",
+    "7- journaling",
+    "6- static/operators_priority.png",
+    "6- static",
+    "5- programming/C#",
+    "5- programming",
+    "5- programming/python"
+  ]
+}

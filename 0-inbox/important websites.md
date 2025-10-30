@@ -1,0 +1,2 @@
+- [انشاء سيرة ذاتية مجاناً - قوالب سيرة ذاتية بالعربي والإنجليزي - منصة معارف](https://www.m3aarf.com/%D8%A7%D9%86%D8%B4%D8%A7%D8%A1-%D8%B3%D9%8A%D8%B1%D8%A9-%D8%B0%D8%A7%D8%AA%D9%8A%D8%A9)
+- [I love pdf](https://www.ilovepdf.com/)

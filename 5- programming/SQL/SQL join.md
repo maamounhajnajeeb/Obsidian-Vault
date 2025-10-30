@@ -1,0 +1,4 @@
+- `left join`: means left table data will be always available even if there are no related records in right table.
+- `right join`: means right table data will be always available even if there are no related records in left table.
+- `full outer join`: or full join, shows all records from two tables.
+- `natural join`: SQL will take the responsibility to choose right join fields names (all fields that have the same name).
