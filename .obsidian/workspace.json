@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6bb00085998d58f3",
+        "id": "027bd12e8bc45d3f",
         "type": "tabs",
         "children": [
           {
-            "id": "3859c46917928f8b",
+            "id": "b5ee607ea6caa330",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -162,10 +162,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "54bca3bbd3ed5a9c",
+  "active": "b5ee607ea6caa330",
   "lastOpenFiles": [
-    "system design crash course.md",
+    "8- operating systems/Lecture 7 - install security updates.md",
     "8- operating systems/Lecture 6 - user and group management.md",
+    "system design crash course.md",
     "5- programming/C#/Programing 1.md",
     "6- static/linux_users.png",
     "8- operating systems/Lecture 1.md",
@@ -196,7 +197,6 @@
     "0-inbox/وصفة دراسة المحاضرات.md",
     "6- static/vi_and_shell.png",
     "5- programming/SQL/SQL join.md",
-    "1-religion/الفقه/الفقه الحنفي/نور الإيضاح/الدرس 9 - أحكام الاغتسال.md",
     "6- static/cs_data_type_ranges.png",
     "6- static/top_dir.png",
     "8- operating systems",

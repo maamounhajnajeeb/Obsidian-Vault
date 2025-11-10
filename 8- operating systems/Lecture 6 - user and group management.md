@@ -28,3 +28,12 @@ use `passwd`:
 ```bash
 passwd sayed # change the name depending on the username
 ```
+## change user
+```bash
+su <username>
+```
+## edit user data
+we can change user group, username, password... via this command:
+```bash
+usermod <username>
+```
