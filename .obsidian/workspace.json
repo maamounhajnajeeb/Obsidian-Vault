@@ -11,10 +11,14 @@
             "id": "b5ee607ea6caa330",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "8- operating systems/Lecture 8 - group management & file management.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Lecture 8 - group management & file management"
             }
           }
         ]
@@ -74,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 259.5
+    "width": 259.5,
+    "collapsed": true
   },
   "right": {
     "id": "080fae6ad05be41c",
@@ -164,6 +169,7 @@
   },
   "active": "b5ee607ea6caa330",
   "lastOpenFiles": [
+    "8- operating systems/Lecture 8 - group management & file management.md",
     "8- operating systems/Lecture 7 - install security updates.md",
     "8- operating systems/Lecture 6 - user and group management.md",
     "system design crash course.md",
@@ -196,7 +202,6 @@
     "0-inbox/System design topics.md",
     "0-inbox/وصفة دراسة المحاضرات.md",
     "6- static/vi_and_shell.png",
-    "5- programming/SQL/SQL join.md",
     "6- static/cs_data_type_ranges.png",
     "6- static/top_dir.png",
     "8- operating systems",
