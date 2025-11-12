@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "8- operating systems/Lecture 8 - group management & file management.md",
+                "file": "8- operating systems/Lecture 9 - File System Heirarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lecture 8 - group management & file management"
+              "title": "Lecture 9 - File System Heirarchy"
             }
           }
         ]
@@ -170,6 +170,7 @@
   "active": "b5ee607ea6caa330",
   "lastOpenFiles": [
     "8- operating systems/Lecture 8 - group management & file management.md",
+    "8- operating systems/Lecture 9 - File System Heirarchy.md",
     "8- operating systems/Lecture 7 - install security updates.md",
     "8- operating systems/Lecture 6 - user and group management.md",
     "system design crash course.md",
@@ -200,7 +201,6 @@
     "0-inbox/important websites.md",
     "0-inbox/notes about cursor.md",
     "0-inbox/System design topics.md",
-    "0-inbox/وصفة دراسة المحاضرات.md",
     "6- static/vi_and_shell.png",
     "6- static/cs_data_type_ranges.png",
     "6- static/top_dir.png",
