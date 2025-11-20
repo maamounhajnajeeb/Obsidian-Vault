@@ -1,0 +1,1 @@
+to what each main folder in Linux explanation see this [link](https://refspecs.linuxfoundation.org/FHS_3.0/index.html).
