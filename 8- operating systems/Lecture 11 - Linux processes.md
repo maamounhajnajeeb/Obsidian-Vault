@@ -41,4 +41,17 @@ jobs
 ```
 ###### if a process takes time and you want to make it run in the background:
 1. press (Ctrl + z), this will pause it and put it in the jobs list
-2. use `bg %jobID`  to resume it in the background (or `fg` to resume in the main bash) 
+2. use `bg %jobID`  to resume it in the background (or `fg` to resume in the main bash)
+###### how to kill a process?
+using `kill` command, it send a kill signal to process, not actually killing it.
+also we have to add one of these tags:
+1. SIGHUB(1): restart the process with same process id.
+2. SIGINT(2): it sends Ctrl+c which it stops the process and return the result.
+3. SIGTERM(15): it will kill the process in a graceful way (delete all the child process).
+4. SIGKILL(9): it will kill the process ungracefully.
+each one of these tags has a number (between braces).
+```bash
+kill -<one of the signals> <process ID>
+```
+###### how to kill multiple processes for same app?
+using `killall` command with signal and  redundant process name.
