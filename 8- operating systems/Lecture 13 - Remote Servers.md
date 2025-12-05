@@ -38,3 +38,13 @@ then just type:
 ssh Albunyan_Almarsous
 ```
 ## Transferring Data Between server and local
+there are two tools for this task: `scp`, `rsync`, `wget`, `curl`
+###### rsync:
+it transfer files and do synchronization.
+###### wget:
+it let you download directly to Linux.
+it also supports the resume download.
+###### curl:
+very powerful to interact with internet.
+## Terminal based web browser:
+there are some tools to achieve that, like: `lynx`

@@ -46,7 +46,7 @@ sudo chown user1:user1 <filename>
 using `chmod` command:
 ```bash
 sudo chmod u=rwx,g=---,o=--- <file name>
-sudo chmod ug+x <file name>
+sudo chmod ug+x <file name> # for user and group
 sudo chmod 744 <file name>
 ```
 ###### how to get the access control list of a file (to edit other permission)?
